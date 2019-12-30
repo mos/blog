@@ -98,3 +98,14 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# Theme Config
+menu:
+  HOME: /
+  文章: /archives
+  时间线: /timeline
+  MOSer: /moser
+  联系我们: /connect
+  关于: /about
+
+
