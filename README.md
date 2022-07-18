@@ -1,5 +1,7 @@
 # mos的官网
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e21993d-e0cb-4030-be1d-b0449ab83e82/deploy-status)](https://app.netlify.com/sites/mos/deploys)
+
 新的官网使用[hexo](https://hexo.io/zh-cn/)搭建，参观地址是[https://mos.dlpu.org/](https://mos.dlpu.org/)。
 
 # 如果你想参与开发或内容贡献 ↓
